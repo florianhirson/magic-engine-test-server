@@ -14,8 +14,8 @@ services:
     environment:
       EULA: "TRUE"
       TYPE: "FORGE"
-      FORGE_VERSION: "40.2.10"
-      VERSION: "1.18.2"
+      FORGE_VERSION: "43.3.0"
+      VERSION: "1.19.2"
       MEMORY: 4G
       MAX_MEMORY: 6G
       SERVER_NAME: "Magic Engine Test Server"
