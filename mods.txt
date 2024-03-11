@@ -4,4 +4,7 @@
 # file ID can be found when pressing download or in the file details/ curse maven snippet (7 digits number)
 
 # magic-engine-1.0.0
-https://github.com/florianhirson/heresy-minecraft-server/raw/main/mods/combatgear1.2.4.jar
+https://github.com/Josinosle/MagicEngine/releases/download/0.0.2-1.19.2/magicengines-0.0.2.jar
+
+# spark 1-9.45
+https://media.forgecdn.net/files/4057/111/spark-1.9.45-forge.jar
