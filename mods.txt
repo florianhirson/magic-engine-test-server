@@ -1,0 +1,7 @@
+# List of urls to download the mods
+# For curseforge mods, the urls works as follows: 
+# https://media.forgecdn.net/files/{first 4 digits of file ID}/{next 3 digits of file ID (remove starting 0 digits)}/{filename}
+# file ID can be found when pressing download or in the file details/ curse maven snippet (7 digits number)
+
+# magic-engine-1.0.0
+https://github.com/florianhirson/heresy-minecraft-server/raw/main/mods/combatgear1.2.4.jar
