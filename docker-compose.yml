@@ -7,8 +7,8 @@ services:
     stdin_open: true
     restart: unless-stopped
     ports:
-      # Default minecraft server port
-      - "25665:25665"
+      # Map the port 25665 to the default minecraft server port
+      - "25665:25565"
       # Voice chat port
       # - "24454:24454/udp"
     environment:
